@@ -1,4 +1,5 @@
 POST :
+
 ![image](https://github.com/user-attachments/assets/8d470f6f-bb56-4d66-86d8-076a67b752a5)
 ![image](https://github.com/user-attachments/assets/98ef768f-48f1-44b8-bd89-a0c16ecf842a)
 ![image](https://github.com/user-attachments/assets/04cb994c-8a3d-44e1-9b7c-272439222bbd)
@@ -11,6 +12,7 @@ GET:
 
 
 GET:(BY INDEX)
+
 ![image](https://github.com/user-attachments/assets/43cc7332-ccd1-447f-b85c-789ac9a39537)
 ![image](https://github.com/user-attachments/assets/02b48949-bbf0-482a-943a-a6a03444cdff)
 
@@ -22,6 +24,7 @@ PUT:
 
 
 DELETE (BY INDEX ):
+
 ![image](https://github.com/user-attachments/assets/b9773096-038c-4283-8211-984381c542b0)
 ![image](https://github.com/user-attachments/assets/69199b00-c9b6-4de1-b757-1f1d02eb2999)
 
@@ -33,11 +36,13 @@ GET PAGE:
 
 
 GET (BY SEARCH):
+
 ![image](https://github.com/user-attachments/assets/9b030814-8a3d-4391-9cc5-c8f37efa31f1)
 ![image](https://github.com/user-attachments/assets/0c88c647-8754-44bf-9ab0-4eebda5a8b44)
 
 
 GET(SORTED):
+
 ![image](https://github.com/user-attachments/assets/3b50358e-fe02-4df3-a169-4d305e2a3239)
 ![image](https://github.com/user-attachments/assets/49849b9a-9d60-4506-acb0-316709003aee)
 
